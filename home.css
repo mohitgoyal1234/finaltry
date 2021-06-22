@@ -786,7 +786,7 @@ a#logo5>img {
   }
 }
 @media only screen and (min-width:400px) and (max-width:500px){
-  *{
+  .part_1{
     overflow-x: hidden;
   }
   .carousel-control-prev{
@@ -804,7 +804,7 @@ a#logo5>img {
   }
 }
 @media only screen and (min-width:300px) and (max-width:400px){
-  *{
+  .part_1{
     overflow-x: hidden;
   }
   .carousel-control-prev{
